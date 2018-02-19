@@ -1,0 +1,11 @@
+nbproject
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+nbactions.xml
+.nb-gradle/
+WordpressBackup/
+livei/
+wp-config.php
+.idea/

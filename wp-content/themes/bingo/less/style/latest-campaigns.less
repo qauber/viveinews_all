@@ -1,0 +1,42 @@
+.latest-campaigns-section {
+  position: relative;
+
+  .campaigns-item {
+    h4 {
+      margin-top: 0;
+    }
+
+    img {
+      border-radius: 3px;
+    }
+  }
+
+  .cycle-slideshow {
+    margin-top: 30px;
+  }
+
+  .cycle-pager {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: -50px;
+    left: 0;
+
+    span {
+      .hide-text();
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      background: white;
+      border-radius: 50%;
+      border: 1px solid @brand-primary;
+      cursor: pointer;
+      margin: 0 5px;
+
+      &.cycle-pager-active {
+        background: @brand-primary;
+        cursor: default;
+      }
+    }
+  }
+}

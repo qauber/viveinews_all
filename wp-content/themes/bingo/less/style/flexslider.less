@@ -1,0 +1,154 @@
+/* FLEXSLIDER */
+
+.slides,
+.flex-control-nav,
+.flex-direction-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.flexslider {
+  margin: 0;
+  padding: 0;
+
+  .slides {
+    .clearfix();
+
+    > li {
+      display: none;
+      -webkit-backface-visibility: hidden;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    html[xmlns] & {
+      display: block;
+    }
+
+    * html & {
+      height: 1%;
+    }
+  }
+}
+
+.flexslider {
+  position: relative;
+  zoom: 1;
+
+  .slides {
+    zoom: 1;
+  }
+}
+
+.flex-viewport {
+  max-height: 2000px;
+
+  .loading & {
+    max-height: 300px;
+  }
+}
+
+.flex-direction-nav {
+  .clearfix();
+  position: absolute;
+  display: block;
+  margin: 0;
+  text-align: center;
+  line-height: 1;
+  z-index: 10;
+
+  a {
+    .text-hide();
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+  }
+
+  .flex-next,
+  .flex-prev {
+    text-decoration: none;
+
+    &:before {
+      font-family: 'FontAwesome';
+      font-size: 22px;
+      color: lighten(@type-color, 54%);
+      line-height: 30px;
+      transition: all .25s ease-in-out;
+    }
+
+    &:hover {
+      &:before {
+        color: @main-color;
+      }
+    }
+  }
+
+  .flex-prev {
+    float: left;
+
+    &:before {
+      content: @fa-var-angle-left;
+    }
+  }
+
+  .flex-next {
+    float: right;
+
+    &:before {
+      content: @fa-var-angle-right;
+    }
+  }
+
+  .flex-disabled,
+  .flex-disabled:hover {
+    cursor: default;
+
+    &:before {
+      color: lighten(@type-color, 95%);
+    }
+  }
+}
+
+.flex-control-nav {
+  position: absolute;
+  left: 0;
+  bottom: (@line-height-base + 35px);
+  display: block;
+  width: 100%;
+  text-align: center;
+  line-height: 12px;
+  z-index: 10;
+  vertical-align: top;
+
+  li {
+    display: inline-block;
+    line-height: 1;
+    margin: 0 5px;
+
+    a {
+      .text-hide();
+      display: block;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      cursor: pointer;
+      text-decoration: none;
+      border: 1px solid transparent;
+
+      &:hover {
+        background: @main-color;
+      }
+
+      &.flex-active {
+        border-color: #ffffff;
+        background: rgba(0, 0, 0, 0.1);
+      }
+    }
+  }
+}

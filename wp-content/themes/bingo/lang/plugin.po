@@ -1,0 +1,2789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bingo UOUapps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-25 12:52+0600\n"
+"PO-Revision-Date: 2015-05-25 12:52+0600\n"
+"Last-Translator: Probal dhar <probalcse08@gmail.com>\n"
+"Language-Team: Probal dhar <probalcse08@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../404.php:22
+msgid "404"
+msgstr ""
+
+#: ../404.php:24
+msgid "Apologies, but no results were found. "
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:24
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:28
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:80 ../category.php:77
+#: ../framework/template/format/content-aside.php:30
+#: ../framework/template/format/content-gallery.php:60
+#: ../framework/template/format/content-image.php:45
+#: ../framework/template/format/content-status.php:31
+#: ../framework/template/format/content-sticky.php:34
+#: ../framework/template/format/content.php:28 ../tag.php:65
+msgid "Read More"
+msgstr ""
+
+#: ../author.php:17
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../author.php:33 ../framework/template/format/single-aside.php:58
+#: ../framework/template/format/single-gallery.php:58
+#: ../framework/template/format/single-image.php:58
+#: ../framework/template/format/single-link.php:31
+#: ../framework/template/format/single-quote.php:32
+#: ../framework/template/format/single-status.php:57
+#: ../framework/template/format/single.php:43 ../single-partner.php:77
+msgid "About the Author"
+msgstr ""
+
+#: ../author.php:34 ../framework/template/format/single-aside.php:59
+#: ../framework/template/format/single-gallery.php:59
+#: ../framework/template/format/single-image.php:59
+#: ../framework/template/format/single-link.php:32
+#: ../framework/template/format/single-quote.php:33
+#: ../framework/template/format/single-status.php:58
+#: ../framework/template/format/single.php:44 ../single-partner.php:78
+#, php-format
+msgid "%d posts created"
+msgstr ""
+
+#: ../author.php:35 ../framework/template/format/single-aside.php:60
+#: ../framework/template/format/single-gallery.php:60
+#: ../framework/template/format/single-image.php:60
+#: ../framework/template/format/single-link.php:32
+#: ../framework/template/format/single-quote.php:33
+#: ../framework/template/format/single-status.php:59
+#: ../framework/template/format/single.php:44 ../single-partner.php:79
+msgid "Contact Author"
+msgstr ""
+
+#: ../category.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../category.php:100 ../framework/template/content-single.php:7
+#: ../framework/template/content.php:21 ../page-full_width.php:64
+#: ../page-full_width_cart.php:52 ../page.php:57 ../single-partner.php:102
+msgid "No Posts were Found!"
+msgstr ""
+
+#: ../comments.php:7
+msgid "You cannot access this page directly."
+msgstr ""
+
+#: ../comments.php:16
+msgid ""
+"This post is password protected. Enter the password to view the comments."
+msgstr ""
+
+#: ../comments.php:29
+msgid "Comments (0)"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Comments (1)"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Comments (%)"
+msgstr ""
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Comments are colsed"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:6
+msgid "Styled list or dropdown of categories."
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:7
+msgid "Bingo Categories"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:13
+msgid "bingo_Categories"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:37
+msgid "Select Category"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:89
+#: ../framework/inc/custom-widgets.php:251
+#: ../framework/inc/custom-widgets.php:345
+#: ../framework/inc/custom-widgets.php:539
+msgid "Title:"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:93
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:96
+msgid "Show post counts"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:99
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:126
+msgid "Bingo&#8217;s most recent Posts."
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:127
+#: ../framework/inc/custom-widgets.php:157
+msgid "Bingo Recent Posts"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:254
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:258
+msgid "Display post date?"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:287
+msgid "Bingo Tag cloud of your most used tags."
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:288
+msgid "Bingo Tag Cloud"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:298
+#: ../framework/vendor/ReduxFramework/config/config.php:158
+msgid "Tags"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:347
+msgid "Taxonomy:"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:488
+msgid "Widget for social network"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:489
+msgid "Bingo NewsLetter"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:494
+msgid "KEEP IN TOUCH"
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:512
+msgid "Please add action link."
+msgstr ""
+
+#: ../framework/inc/custom-widgets.php:543
+msgid " Link:"
+msgstr ""
+
+#: ../framework/inc/wp-dimox-breadcrumbs.php:160
+msgid "Page"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:139
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:141
+msgid "The main sidebar area"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:151
+msgid "Footer sidebar 1"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:153
+msgid "The Footer sidebar 1 area"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:162
+msgid "Footer sidebar 2"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:164
+msgid "The Footer sidebar 2 area"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:173
+msgid "Footer sidebar 3"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:175
+msgid "The Footer sidebar 3 area"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:184
+msgid "Footer sidebar 4"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:186
+msgid "The Footer sidebar 4 area"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:210
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:229
+msgid "on"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:236
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:270
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:582
+#: ../woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:273 ../header.php:73
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:276
+msgid "Website"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:540
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:541
+msgid "Password:"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:582
+msgid "Wrong username or password."
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:587
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:630
+msgid "Username Alreday exists, please choose another"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:632
+msgid "This e-mail is already registered, please use another to register"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:634
+msgid "Sorry, no spaces are allowed in usernames"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:636
+msgid "Please enter a username"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:638
+msgid "Please enter a password for your account"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:640
+msgid "Please enter a valid email"
+msgstr ""
+
+#: ../framework/lib/uou-functions.php:644
+msgid "Registration Successfull"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:4
+msgid "Latest Auctions"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:9
+msgid "Auctions of Projects"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:88
+#: ../framework/template/Front_templates/latest-projects.php:94
+#: ../framework/template/Front_templates/staff-picks.php:150
+#: ../framework/template/Front_templates/staff-picks.php:156 ../search.php:126
+#: ../search.php:132 ../template-projects-list.php:127
+#: ../template-projects-list.php:133
+msgid "Bids"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:100
+#: ../framework/template/Front_templates/staff-picks.php:161
+msgid "Condition"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:101
+msgid "Buy Now Price"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:112
+#: ../framework/template/Front_templates/staff-picks.php:173 ../search.php:152
+#: ../template-projects-list.php:153 ../woocommerce/single-product/bid.php:85
+msgid "Days to go"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:116
+#: ../framework/template/Front_templates/staff-picks.php:177
+msgid "Expired"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:127
+#: ../framework/template/Front_templates/staff-picks.php:188
+msgid "Current Bid:"
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:134
+#: ../framework/template/Front_templates/staff-picks.php:195
+#: ../template-projects-list.php:180
+msgid "Starting Bid: "
+msgstr ""
+
+#: ../framework/template/Front_templates/latest-projects.php:147
+#: ../framework/template/Front_templates/staff-picks.php:208
+msgid "Bid Project"
+msgstr ""
+
+#: ../framework/template/Front_templates/staff-picks.php:4
+msgid "Staff Picks"
+msgstr ""
+
+#: ../framework/template/Front_templates/staff-picks.php:120
+msgid "See All Projects in Category"
+msgstr ""
+
+#: ../framework/template/Front_templates/staff-picks.php:129
+msgid "Auction by "
+msgstr ""
+
+#: ../framework/template/Front_templates/staff-picks.php:130
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../framework/template/Front_templates/staff-picks.php:162
+msgid "Buy Now Prize"
+msgstr ""
+
+#: ../framework/template/format/content-sticky.php:5
+msgid "Sticky"
+msgstr ""
+
+#: ../framework/template/format/single-link.php:13
+#: ../framework/template/format/single-quote.php:13
+#: ../framework/template/format/single.php:26 ../image.php:34
+msgid "Edit"
+msgstr ""
+
+#: ../framework/template/partner.php:4
+msgid "Our Partners"
+msgstr ""
+
+#: ../framework/template/sharer.php:2
+msgid "Share This Story"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/enqueue.php:397
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:566
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/enqueue.php:405
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:567
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/enqueue.php:413
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/enqueue.php:421
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:568
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/enqueue.php:428
+msgid "Please Wait"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/enqueue.php:439
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/enqueue.php:440
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/core/panel.php:340
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:221
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:194
+msgid "Redux Framework"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:225
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:229
+msgid "Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1409
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/menu_container.tpl.php:63
+msgid "System Info"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1712
+msgid "Enable"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1717
+msgid "Disable"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1723
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1725
+msgid "clicking"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1729
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1734
+msgid "Hints"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:1861
+msgid "Default"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:2711
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/framework.php:2797
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/class.redux_functions.php:237
+msgid "Dismiss"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/class.redux_helpers.php:593
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/debug.php:41
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/debug.php:69
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/debug.php:76
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+#: ../framework/vendor/ReduxFramework/config/config.php:604
+msgid "Import / Export"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from File"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:112
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Data"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Download Data File"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Export URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:124
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/color/field_color.php:73
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:277
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:314
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:198
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/background/field_background.php:321
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:205
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:125
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:138
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:145
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:152
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:159
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2226
+msgid "Active"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+#: ../header.php:57 ../header.php:74 ../woocommerce/global/form-login.php:26
+msgid "Password"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+#: ../header.php:56 ../header.php:72
+msgid "Username"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:83
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:134
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:73
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:258
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:273
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:342
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:343
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:365
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:366
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:388
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:389
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:408
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:409
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:432
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:441
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:450
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:459
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:879
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:980
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:154
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:218
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/about.php:8
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:8
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:8
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:82
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:31
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:8
+#: ../framework/vendor/ReduxFramework/config/config.php:157
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:5
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/credits.php:14
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
+"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:172
+#: ../framework/vendor/ReduxFramework/config/config.php:313
+msgid "Language"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:358
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:427
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:587
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2474
+msgid "Version"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:22
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:174
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:194
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:202
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:210
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:416
+msgid "Get Support"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:227
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:235
+msgid "Redux Framework Status"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:344
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:150
+msgid "Extensions"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:348
+msgid "Changelog"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:352
+msgid "Credits"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:356
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:144
+msgid "Support"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:360
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2475
+msgid "Status"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/inc/welcome/welcome.php:517
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:47
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:50
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:51
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:56
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:12
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:35
+msgid "Redux has enabled developer mode because"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:312
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:312
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:413
+msgid "Docs"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:414
+msgid "Repo"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:415
+msgid "Builder"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:421
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/class.redux-plugin.php:423
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:55
+#: ../framework/vendor/ReduxFramework/config/config.php:194
+msgid "Home Settings"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:56
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement. For extra details look at "
+"our <a href=\"http://docs.reduxframework.com/core/advanced/wpml-integration/"
+"\" target=\"_blank\">WPML Implementation</a> documentation."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:64
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:247
+msgid "Example Text"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:67
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:248
+msgid "Example description."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:68
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:249
+msgid "Example subtitle."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:78
+msgid "WPML Example"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:79
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:86
+msgid "WPML Text"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:87
+msgid "This string can be translated via WPML."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:92
+msgid "WPML Multi Checkbox"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:93
+msgid "You can literally translate the values via key."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:110
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:204
+#: ../framework/vendor/ReduxFramework/config/config.php:635
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:111
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:117
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:205
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:210
+#: ../framework/vendor/ReduxFramework/config/config.php:636
+#: ../framework/vendor/ReduxFramework/config/config.php:642
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:116
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:209
+#: ../framework/vendor/ReduxFramework/config/config.php:641
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:121
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:216
+#: ../framework/vendor/ReduxFramework/config/config.php:646
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:144
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:145
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:35
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:36
+msgid "Sample Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:262
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:183
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:264
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:185
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config-legacy.php:268
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:189
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:138
+#: ../framework/vendor/ReduxFramework/config/config.php:590
+#: ../framework/vendor/ReduxFramework/config/config.php:624
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:240
+msgid "Basic Field"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:242
+msgid "Basic field with no subsections."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:257
+msgid "Basic Fields"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:259
+msgid "Basic fields as subsections."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:264
+msgid "Text"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:265
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:282
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:272
+msgid "Text Field"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:273
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:290
+msgid "Subtitle"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:274
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:291
+msgid "Field Description"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:281
+msgid "Text Area"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/barebones-config.php:289
+msgid "Text Area Field"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:60
+msgid "Section via hook"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:61
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:139
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:156
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:163
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:163
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:206
+msgid "Custom Logo"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:209
+msgid "Upload custom Logo."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:218
+msgid "Preloader On Off"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:226
+msgid "Custom CSS "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:227
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:238
+msgid "Tracking code"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:239
+msgid "Paste your JS code here."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:248
+msgid "Home Slider shortcode"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:249
+msgid ""
+"Please give the shortcode of the slider you want to show in the homepage of "
+"bingo"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:266
+msgid "Header Settings"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:273
+msgid "Social Icons"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:282
+msgid "Buy button"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:289
+msgid "Buy button link"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:300
+msgid "Top Nav Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:306
+msgid "Show Language "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:327
+msgid "Login options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:334
+msgid "WPML language show type"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:335
+msgid "Select the type how you want to show language selector"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:336
+msgid "This select type will only work if WPML activated in your theme"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:354
+msgid "Social Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:359
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:366
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:373
+msgid "Google"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:380
+msgid "Linkedin"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:387
+msgid "Pinterest"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:397
+msgid "Footer Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:403
+msgid "Our partners On Off from all pages"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:411
+msgid "Show Tweets"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:419
+msgid "Your Twitter username"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:427
+msgid "Twitter API Auth Key"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:435
+msgid "Twitter API Auth Secret"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:442
+msgid "Your Twitter Auth Token"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:449
+msgid "Your Twitter Auth Secret"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:456
+msgid "Number of Tweets"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:465
+msgid "Footer Text"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:466
+msgid "Enter the text you want to show as footer text"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:479
+msgid "Styling Options"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:485
+msgid "Body Colour"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:496
+msgid "Typography"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:501
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:512
+msgid "Body Background"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:513
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:521
+msgid "Primary Color"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:522
+msgid "Primary color for color scheme"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:523
+msgid "Choose your primary color for color scheme"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:531
+msgid "Secondary Color"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:532
+msgid "secondary color for color scheme"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:533
+msgid "Choose your secondary color for color scheme"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:541
+msgid "Button primary hover color"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:542
+msgid "Primary color for button hover"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:543
+msgid "Choose your Primary color for button hover"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:551
+msgid "Button secondary hover color"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:552
+msgid "secondary color for button hover"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:553
+msgid "Choose your secondary color for button hover"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:561
+msgid "Button text color"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:562
+msgid "color for button text"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:563
+msgid "Choose your color for button text"
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:577
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:578
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:579
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:583
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:605
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../framework/vendor/ReduxFramework/config/config.php:666
+#: ../framework/vendor/ReduxFramework/config/config.php:667
+msgid "Bingo Options"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:303
+#: ../framework/vendor/plugins/load-plugin.php:77
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:304
+#: ../framework/vendor/plugins/load-plugin.php:78
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:305
+#: ../framework/vendor/plugins/load-plugin.php:79
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:306
+#: ../framework/vendor/plugins/load-plugin.php:80
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:368
+#: ../framework/vendor/plugins/load-plugin.php:91
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:369
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:370
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2994
+#: ../framework/vendor/plugins/load-plugin.php:92
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:371
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:375
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:376
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2173
+msgid "Required"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2176
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2193
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2197
+msgid "External Source"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2201
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2220
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2224
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2232
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2235
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2238
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2246
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2400
+msgid "unknown"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2408
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2416
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2428
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2452
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2468
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2469
+msgid "Source"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2470
+msgid "Type"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2499
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2511
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2602
+msgid "Install"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2608
+msgid "Update"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2611
+msgid "Activate"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2672
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2674
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:2993
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3332
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3336
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3337
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3341
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3342
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3343
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3344
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3348
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3350
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/vendor/plugins/class-tgm-plugin-activation.php:3351
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/vendor/plugins/load-plugin.php:93
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:96
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header-front_page.php:48 ../header.php:49
+msgid "Logout"
+msgstr ""
+
+#: ../header-front_page.php:51 ../header.php:52 ../header.php:58
+#: ../woocommerce/global/form-login.php:35
+msgid "Login"
+msgstr ""
+
+#: ../header-front_page.php:58 ../header.php:59
+msgid "Forgot Password?"
+msgstr ""
+
+#: ../header-front_page.php:68 ../header.php:68 ../header.php:75
+msgid "Register"
+msgstr ""
+
+#: ../header-front_page.php:92 ../header.php:92
+msgid "EN"
+msgstr ""
+
+#: ../header-front_page.php:116 ../header.php:115
+msgid " Buy Now"
+msgstr ""
+
+#: ../image.php:23
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../image.php:38
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:39
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../image.php:98
+msgid "Pages:"
+msgstr ""
+
+#: ../page-full_width.php:39 ../page-full_width_cart.php:37 ../page.php:32
+#: ../single-partner.php:34
+msgid "Edit This"
+msgstr ""
+
+#: ../search.php:42 ../search.php:223
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:53
+msgid "You have selected these categories : "
+msgstr ""
+
+#: ../search.php:61 ../search.php:242
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../search.php:137 ../template-projects-list.php:138
+msgid " Condition"
+msgstr ""
+
+#: ../search.php:175
+msgid "Current Bid : "
+msgstr ""
+
+#: ../search.php:179
+msgid "Starting Bid : "
+msgstr ""
+
+#: ../search.php:189 ../template-projects-list.php:196
+msgid " Bid Now"
+msgstr ""
+
+#: ../search.php:238
+msgid "Nothing Found"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:6
+msgid "&#xf002;"
+msgstr ""
+
+#: ../sidebar-footer1.php:4 ../sidebar-footer2.php:4 ../sidebar-footer3.php:4
+#: ../sidebar-footer4.php:4 ../sidebar.php:5
+msgid "No widget here"
+msgstr ""
+
+#: ../template-projects-list.php:176
+msgid "Current Bid: "
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:94
+msgid ""
+"<h5 class=\"auction_not_started_or_expired text-center\">This Auction Has "
+"Not Started Yet.</h5>"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:100
+msgid ""
+"<h5 class=\"auction_not_started_or_expired text-center\">The Auction Has "
+"Expired.</h5>"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:151
+#: ../woocommerce/single-product/bid.php:34
+msgid "Buy Now"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:155
+msgid "Sale Price"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:163
+msgid "SKU"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:176
+#: ../woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:177
+#: ../woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:215
+msgid "Buy now"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:241
+msgid "Recent Bids"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:265
+msgid "Sorry, no bids for this product."
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:22
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:38
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:42
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:18
+msgid "Item condition:"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:20
+msgid "Time left:"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:26
+msgid "Starting bid:"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:30
+msgid "Current Price:"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:46
+#, php-format
+msgid "Timezone: <span class=\"time-zone\">%s</span>"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:46
+msgid "UTC+"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:58
+msgid "Reserve price has not been met"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:62
+msgid "Reserve price has been met"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:66
+msgid "This is reverse auction."
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:77
+msgid " bids"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:106
+#: ../woocommerce/single-product/bid.php:114
+msgid "Bid"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:121
+msgid "or"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:128
+msgid "Auction starts in:"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:132
+msgid "Auction start:"
+msgstr ""
+
+#: ../woocommerce/single-product/bid.php:133
+msgid "Auction ends:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:72
+msgid "Campaign by "
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:77
+msgid "Launched on"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:77
+msgid " and ends on "
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""

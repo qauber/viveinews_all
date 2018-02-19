@@ -1,0 +1,22 @@
+[12-Nov-2015 02:17:25 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 80 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[12-Nov-2015 02:20:22 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 83 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2224
+[12-Nov-2015 02:20:45 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 83 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2224
+[12-Nov-2015 02:21:49 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 81 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[12-Nov-2015 02:23:29 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[12-Nov-2015 02:37:05 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 80 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[12-Nov-2015 02:37:10 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[12-Nov-2015 02:40:20 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[12-Nov-2015 02:40:33 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 83 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[12-Nov-2015 02:44:42 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 80 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[13-Nov-2015 05:55:00 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[13-Nov-2015 05:56:54 US/Arizona] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 64 bytes) in /home/dimka99/public_html/liveinews.com/wp-includes/wp-db.php on line 2223
+[05-Jan-2016 16:37:05 US/Arizona] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/dimka99/public_html/liveinews.com/wp-includes/query.php on line 1871
+[05-Jan-2016 16:37:05 US/Arizona] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /home/dimka99/public_html/liveinews.com/wp-includes/query.php on line 1872
+[05-Jan-2016 16:37:05 US/Arizona] PHP Warning:  Invalid argument supplied for foreach() in /home/dimka99/public_html/liveinews.com/wp-includes/query.php on line 1873
+[14-Jun-2016 17:48:39 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[14-Jun-2016 17:48:39 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[14-Jun-2016 17:48:39 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[14-Jun-2016 17:48:39 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[14-Jun-2016 17:48:39 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[14-Jun-2016 17:48:39 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[14-Jun-2016 17:48:39 America/Denver] PHP Warning:  Module 'ionCube Loader' already loaded in Unknown on line 0

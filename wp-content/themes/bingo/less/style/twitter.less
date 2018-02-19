@@ -1,0 +1,104 @@
+/* Twitter Feed Section */
+.twitter-feed-section {
+  position: relative;
+  background-image: url(../img/twitter-bg.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  .css-table {
+    position: relative;
+    padding: 0 60px 0 100px;
+    height: 150px;
+  }
+
+  .tweet_list {
+    .clearfix();
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #ffffff;
+
+    a {
+      color: #ffffff;
+    }
+  }
+
+  .tweet_text {
+    font-weight: 700;
+  }
+
+  .tweet_time {
+    display: block;
+    text-transform: capitalize;
+  }
+
+  .twitter-logo {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    display: block;
+    margin-top: -35px;
+    width: 70px;
+    height: 70px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background: @brand-primary;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    line-height: 70px;
+  }
+
+  .flex-direction-nav {
+    top: 45px;
+    right: 0;
+
+    a {
+      width: 30px;
+      height: 30px;
+    }
+
+    .flex-next,
+    .flex-prev {
+      position: absolute;
+      top: 50%;
+      right: 0;
+      background: @brand-primary;
+      border-radius: 3px;
+
+      &:before {
+        font-size: 22px;
+        color: lighten(@type-color, 77.5%);
+        line-height: 30px;
+      }
+
+      &:hover {
+        background: darken(@brand-primary, 15%);
+
+        &:before {
+          color: lighten(@type-color, 77.5%);
+        }
+      }
+    }
+
+    .flex-prev {
+      margin-top: -5px;
+      float: none;
+
+      &:before {
+        content: @fa-var-angle-up;
+      }
+    }
+
+    .flex-next {
+      margin-top: 35px;
+      float: none;
+
+      &:before {
+        content: @fa-var-angle-down;
+      }
+    }
+  }
+}

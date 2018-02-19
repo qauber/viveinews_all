@@ -1,0 +1,15 @@
+[16-Nov-2015 09:24:33 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/header.php on line 10
+[16-Nov-2015 09:36:20 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/footer.php on line 10
+[16-Nov-2015 10:16:17 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/sidebar.php on line 10
+[16-Nov-2015 10:42:38 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/comments.php on line 10
+[16-Nov-2015 11:22:36 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/comments-popup.php on line 10
+[16-Nov-2015 17:22:06 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/header.php on line 10
+[16-Nov-2015 17:27:11 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/footer.php on line 10
+[16-Nov-2015 18:55:35 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/sidebar.php on line 10
+[16-Nov-2015 19:32:59 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/comments.php on line 10
+[16-Nov-2015 20:01:53 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/comments-popup.php on line 10
+[19-Nov-2015 01:38:45 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/header.php on line 10
+[26-Nov-2015 19:57:56 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/footer.php on line 10
+[26-Nov-2015 21:40:05 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/sidebar.php on line 10
+[27-Nov-2015 06:22:11 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/comments.php on line 10
+[27-Nov-2015 07:03:48 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/dimka99/public_html/liveinews.com/wp-includes/theme-compat/comments-popup.php on line 10

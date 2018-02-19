@@ -1,0 +1,99 @@
+//
+// Tables
+// --------------------------------------------------
+
+table {
+  margin: 30px 0 60px 0;
+  max-width: 100%;
+  width: 100%;
+  background-color: transparent;
+
+  th {
+    text-align: left;
+  }
+
+  th,
+  td {
+    padding: 13px 15px;
+    border-bottom: 1px solid lighten(@color-2, 60%);
+    vertical-align: top;
+    line-height: 24px;
+  }
+
+  > thead {
+    > tr {
+      > th {
+        border-bottom: 0;
+        background: @brand-primary;
+        vertical-align: bottom;
+
+        &:first-child {
+          border-radius: 3px 0 0 3px;
+        }
+
+        &:last-child {
+          border-radius: 0 3px 3px 0;
+        }
+      }
+    }
+  }
+}
+
+table > caption + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > th,
+table > thead:first-child > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+}
+
+table > tbody + tbody {
+  border-top: 2px solid lighten(@color-2, 60%);
+}
+
+.table-condensed > thead > tr > th,
+.table-condensed > tbody > tr > th,
+.table-condensed > tfoot > tr > th,
+.table-condensed > thead > tr > td,
+.table-condensed > tbody > tr > td,
+.table-condensed > tfoot > tr > td {
+  font-size: 14px;
+  padding: 6px;
+}
+
+.table-bordered {
+  border: 1px solid lighten(@color-2, 60%);
+}
+
+.table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > td {
+  border: 1px solid lighten(@color-2, 60%);
+  background: none;
+}
+
+.table-striped > tbody > tr:nth-child(even) > td,
+.table-striped > tbody > tr:nth-child(even) > th {
+  background-color: rgba(red(@color-2), green(@color-2), blue(@color-2), .025);
+}
+
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > th {
+  background-color: rgba(red(@color-2), green(@color-2), blue(@color-2), .05);
+}
+
+table col[class*="col-"] {
+  position: static;
+  display: table-column;
+  float: none;
+}
+
+table td[class*="col-"],
+table th[class*="col-"] {
+  display: table-cell;
+  float: none;
+}

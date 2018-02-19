@@ -1,0 +1,51 @@
+.header-page-title {
+	padding: 20px 0 80px 0;
+	background-image: url(../img/page-title-bg.png);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #ffffff;
+	
+	a {
+		color: inherit;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	h1 {
+		float: left;
+		margin: 0;
+		font-size: 30px;
+		line-height: 40px;
+	}
+
+	.breadcrumbs {
+		position: relative;
+		display: block;
+		float: right;
+		margin: 0;
+		padding: 8px 0;
+		list-style: none;
+
+		> li {
+			float: left;
+
+			&:after {
+				margin: 0 10px;
+				color: @brand-primary;
+				content: '/';
+			}
+
+			&:last-child:after {
+				display: none;
+			}
+
+			> a {
+				display: inline-block;
+				line-height: inherit;
+			}
+		}
+	}
+}

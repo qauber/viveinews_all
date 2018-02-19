@@ -1,0 +1,57 @@
+.header-home-slider {
+  width: 100%;
+  height: 475px;
+  overflow: hidden;
+
+  .slides {
+    > li {
+      position: relative;
+      height: 475px;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      .css-table {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        color: #fff;
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 60px;
+        margin: 0;
+        text-align: center;
+        padding: 0 15%;
+        line-height: 1.3em;
+        text-shadow: 0 1px 5px rgba(0,0,0,.75);
+      }
+
+      .btn {
+        margin-top: 60px;
+      }
+    }
+  }
+
+  .flex-control-nav {
+    bottom: 30px;
+
+    li {
+      a {
+        border: 1px solid #ffffff;
+
+        &:hover {
+          background: @main-color;
+        }
+
+        &.flex-active {
+          border-color: #ffffff;
+          background: #ffffff;
+        }
+      }
+    }
+  }
+}

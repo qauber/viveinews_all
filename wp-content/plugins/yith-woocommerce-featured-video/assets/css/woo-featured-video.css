@@ -1,0 +1,3 @@
+.product-video { display: block; height: auto; max-width: 100%; padding-bottom: 0; padding-top: 0; position: relative;}
+.product-video.dailymotion embed, .product-video.youtube embed, .product-video.vimeo object, .product-video iframe {position: absolute; top: 0;left: 0;width: 100%;height: 100%; }
+.woocommerce span.onsale, .woocommerce-page span.onsale { z-index: 10; }

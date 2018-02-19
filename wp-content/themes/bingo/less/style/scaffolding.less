@@ -1,0 +1,238 @@
+/* GENERAL STYLES */
+
+#main-wrapper {
+  overflow: hidden;
+}
+
+#page-content {
+  padding: 0;
+}
+
+#page-content > .page-content {
+  position: relative;
+  margin: -60px auto 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  max-width: 100%;
+  width: 1270px;
+  border-radius: 3px;
+  background: #ffffff;
+
+  @media (max-width: 1270px) and (min-width: 1200px), (max-width: 767px) {
+    border-radius: 0;
+  }
+}
+
+.white-bg {
+  background: #ffffff;
+}
+
+.tab-focus() {
+  outline: 0;
+  outline-offset: 0;
+}
+
+//
+// Scaffolding
+// --------------------------------------------------
+
+
+// Reset the box-sizing
+//
+// Heads up! This reset may cause conflicts with some third-party widgets.
+// For recommendations on resolving such conflicts, see
+// http://getbootstrap.com/getting-started/#third-box-sizing
+* {
+  .box-sizing(border-box);
+}
+*:before,
+*:after {
+  .box-sizing(border-box);
+}
+
+
+// Body reset
+
+html {
+  font-size: 10px;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body {
+  font-family: @font-family-base;
+  font-size: @font-size-base;
+  line-height: @line-height-base;
+  color: @text-color;
+  background: @body-bg;
+}
+
+// Reset fonts for relevant elements
+input,
+button,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+
+// Links
+
+a {
+  color: @link-color;
+  text-decoration: none;
+  .transition();
+
+  &:hover,
+  &:focus {
+    color: @link-hover-color;
+    text-decoration: underline;
+  }
+
+  &:focus {
+    .tab-focus();
+  }
+}
+
+
+// Figures
+//
+// We reset this here because previously Normalize had no `figure` margins. This
+// ensures we don't break anyone's use of the element.
+
+figure {
+  margin: 0;
+}
+
+
+// Images
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+}
+
+.align-center,
+.aligncenter {
+  display: block;
+  margin: @line-height-computed auto;
+}
+
+.align-left,
+.alignleft {
+  float: left;
+  margin: 5px @line-height-computed @line-height-computed 0;
+}
+
+.align-right,
+.alignright {
+  float: right;
+  margin: 5px 0 @line-height-computed @line-height-computed;
+}
+
+
+// Horizontal rules
+
+hr {
+  margin-top:    @line-height-base;
+  margin-bottom: @line-height-base;
+  border: 0;
+  border-top: 2px solid @hr-border;
+}
+
+
+// Only display content to screen readers
+//
+// See: http://a11yproject.com/posts/how-to-hide-content/
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+// Use in conjunction with .sr-only to only display content when it's focused.
+// Useful for "Skip to main content" links; see http://www.w3.org/TR/2013/NOTE-WCAG20-TECHS-20130905/G1
+// Credit: HTML5 Boilerplate
+
+.sr-only-focusable {
+  &:active,
+  &:focus {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+  }
+}
+
+.css-table {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+.css-table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+@media (max-width: @screen-xs-max) {
+  .align-left,
+  .alignleft,
+  .align-right,
+  .alignright {
+    display: block;
+    float: none;
+    margin: @line-height-computed auto;
+  }
+}
+
+.pagination {
+  .clearfix();
+  display: inline-block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  border: 1px solid lighten(@color-2, 60%);
+  border-radius: 3px;
+  list-style: none;
+
+  > li {
+    float: left;
+    border-right: 1px solid lighten(@color-2, 60%);
+
+    &:last-child {
+      border-right: 0;
+    }
+
+    > a {
+      display: block;
+      width: 30px;
+      height: 28px;
+      color: lighten(@color-2, 60%);
+      text-align: center;
+      text-decoration: none;
+      line-height: 28px;
+
+      &:hover {
+        color: inherit;
+      }
+    }
+
+    &.active {
+      > a {
+        background: lighten(@color-2, 75%);
+        color: inherit;
+      }
+    }
+  }
+}
